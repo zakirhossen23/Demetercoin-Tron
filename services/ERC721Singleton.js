@@ -1,6 +1,6 @@
 import { ethers } from 'ethers';
 
-import erc721 from '../contracts/deployments/BTTC/BTTCERC721.json';
+import erc721 from '../contracts/deployments/TRON/TRONERC721.json';
 
 export default function ERC721Singleton(signer) {
 	if (!ERC721Singleton._instance) {

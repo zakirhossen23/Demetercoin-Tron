@@ -6,7 +6,7 @@ dotenv.config();
 
 module.exports = {
 	networks: {
-		BTTC: {
+		TRON: {
 			url: "https://pre-rpc.bt.io/",
 			accounts: [`8470f20322e3e7b081ddb60179eb483e14c07022986d1b0c1c5da61ab729add4`],
 			chainId: 1029,
