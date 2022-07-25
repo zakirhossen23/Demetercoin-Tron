@@ -64,7 +64,7 @@ export default function BidNFTModal({
 			activateWorkingModal("A moment please")
 			const result = await web3.eth.sendTransaction({ from: senderAddress, to: toAddress, value: AmountinFull })
 			console.log(result);
-			activateWorkingModal("Done! Adding into Moonbeam Network...")
+			activateWorkingModal("Done! Adding into TRON Network...")
 
 			const tokenUri = await contract.tokenURI(tokenId);
 			var parsed = await JSON.parse(tokenUri);
