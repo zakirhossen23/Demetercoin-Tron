@@ -31,13 +31,13 @@ export default function Welcome() {
 		<Header></Header>
 		<div className="welcome mb-5">
 			<div className="welcome row" style={{ flexDirection: 'column', alignItems: 'center' }}>
-				<img src="/favicon.png" className='welcome img' />
+				<img src="Logo.svg" className='welcome img' />
 				<div className="text-center">
 					<h1 className='welcome title'>A gift with a story</h1>
 				</div>
 				<div className="text-center">
 					<h4 className='welcome description' >
-					Donation events as a service, to create the most easy, transparent and fun NFT charity auction, by using the power of BTTC to help organizations raise additional support for a green world!
+					Donation events as a service, to create the most easy, transparent and fun NFT charity auction, by using the power of TRON to help organizations raise additional support for a green world!
 
 
 
