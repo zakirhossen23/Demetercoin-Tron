@@ -514,5 +514,3 @@ function _setEventRaised(uint256 _eventId, string memory _raised)
 }
 
 
-
-
